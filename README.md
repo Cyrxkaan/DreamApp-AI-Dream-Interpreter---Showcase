@@ -27,11 +27,11 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="screenshots/2.png" width="200" alt="Welcome Screen" /><br/><sub><b>Welcome Screen</b></sub></td>
-    <td align="center"><img src="screenshots/4.png" width="200" alt="EXplore Screen" /><br/><sub><b>EXplore Screen</b></sub></td>
-    <td align="center"><img src="screenshots/1.png" width="200" alt="Dream Creation" /><br/><sub><b>Dream Creation</b></sub></td>
-    <td align="center"><img src="screenshots/3.png" width="200" alt="AI Interpretation" /><br/><sub><b>AI Interpretation</b></sub></td>
-    <td align="center"><img src="screenshots/5.png" width="200" alt="Dream Gallery" /><br/><sub><b>Dream Gallery</b></sub></td>
+    <td align="center"><img src="screenshotss/2.png" width="200" alt="Welcome Screen" /><br/><sub><b>Welcome Screen</b></sub></td>
+    <td align="center"><img src="screenshotss/4.png" width="200" alt="EXplore Screen" /><br/><sub><b>EXplore Screen</b></sub></td>
+    <td align="center"><img src="screenshotss/1.png" width="200" alt="Dream Creation" /><br/><sub><b>Dream Creation</b></sub></td>
+    <td align="center"><img src="screenshotss/3.png" width="200" alt="AI Interpretation" /><br/><sub><b>AI Interpretation</b></sub></td>
+    <td align="center"><img src="screenshotss/5.png" width="200" alt="Dream Gallery" /><br/><sub><b>Dream Gallery</b></sub></td>
   </tr>
 </table>
 
