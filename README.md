@@ -148,6 +148,8 @@ lib/
 
 ### Installation
 
+> 🔒 **Access Note:** The core source code repository is currently **Private** due to its active commercial status on the Google Play Store. The installation steps below are documented for authorized team members and internal CI/CD processes.
+
 **1. Clone the repository**
 ```bash
 git clone https://github.com/MehmetKaanTelli/DreamApp.git
